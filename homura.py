@@ -151,7 +151,6 @@ te.speed(Speed)
 te.penup()
 
 # 图层_2
-time.sleep(20)
 te.color("black", "#F2F2F2")  # 外套
 Moveto(61, 462)
 te.begin_fill()
